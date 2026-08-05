@@ -1,0 +1,18 @@
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+mfput.*
+
+# The compiled PDF is deliberately tracked -- it is the deliverable.
+# Everything else that pdflatex leaves behind is not.
+
+# macOS / OneDrive
+.DS_Store
+Icon?
