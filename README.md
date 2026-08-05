@@ -60,7 +60,9 @@ is [**From Chance to Decisions**](https://kedarkulkarni1991.github.io/stats-econ
 
 ## Licence
 
-Released under the [MIT licence](LICENSE).
+Released under [Creative Commons Attribution 4.0 International](LICENSE)
+(CC BY 4.0). You are free to share and adapt this material, including
+commercially, provided you give appropriate credit.
 
 To cite:
 
